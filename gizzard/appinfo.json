@@ -1,0 +1,9 @@
+{
+	"id": "com.gabodrg.gizzard",
+	"version": "1.0.0",
+	"vendor": "gabodrg",
+	"type": "web",
+	"main": "index.html",
+	"title": "Gizzy",
+	"icon": "icon_64.png"
+}
