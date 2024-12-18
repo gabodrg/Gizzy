@@ -4,7 +4,7 @@ A very simple webOS app.
 
 Watch the gator walk and pretty much nothing else.
 
-Tested on Palm Pre and Pre2
+Tested on Palm Pre and Palm Pre Plus
 
 # Screenshots
 
